@@ -1,3 +1,5 @@
+// Solution Review Video https://www.youtube.com/watch?v=Dz0NkaBp-FM
+
 function bubbleSort(array){
   var endIndex = array.length;
   while(endIndex>0){
